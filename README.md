@@ -4,13 +4,13 @@
 
 📖 Table of Contents
 
--Introduction
--Dataset
--Model
--Results
--Training
--Inference
--Future Work
+- Introduction
+- Dataset
+- Model
+- Results
+- Training
+- Inference
+- Future Work
 
 📌 Introduction
 This project fine-tunes LLaMA generate response to the provided instruction.
