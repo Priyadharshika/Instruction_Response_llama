@@ -16,9 +16,13 @@
 This project fine-tunes LLaMA generate response to the provided instruction.
 
 🚀 Features:
+
 ✔️ Fine-tuning LLaMA using LoRA for efficiency
+
 ✔️ Preprocessing & tokenization
+
 ✔️ Training on Instruction-Response dataset
+
 ✔️ Evaluation & performance metrics
 
 📚 Dataset
