@@ -5,17 +5,16 @@
 📖 Table of Contents
 
 - Introduction
+- Features
 - Dataset
-- Model
+- Model Hyperparamters 
 - Results
-- Training
-- Inference
-- Future Work
 
 📌 Introduction
-This project fine-tunes LLaMA generate response to the provided instruction.
 
-🚀 Features:
+This project fine-tunes LLaMA model to generate response to the given instruction.
+
+🚀 Features
 
 ✔️ Fine-tuning LLaMA using LoRA for efficiency
 
@@ -52,7 +51,13 @@ Fine-tuned LLaMA-13B using LoRA to reduce memory usage.
 
 📊 Results
 
-📌 Performance Metrics
+Output Sample
+
+  **Instruction**: What is the difference between artificial intelligence, machine learning, and deep learning?
+  
+  **Generated Response**: Artificial intelligence (AI) refers to the development of computer systems able to perform tasks that typically require human intelligence. Machine learning (ML) is a subset of AI that enables computers to learn from data without being explicitly programmed. Deep learning (DL) is a subset of ML that uses neural networks to analyze data. DL is particularly effective in tasks such as image and speech recognition.
+
+Performance Metrics
 
 | Metric                | Score |
 |-----------------------|-------|
@@ -60,4 +65,6 @@ Fine-tuned LLaMA-13B using LoRA to reduce memory usage.
 | BertScore(F1-Score)   | 83.6% |
 | BertScore(F1-precision)| 83.6% |
 | BertScore(F1-Recall)   | 83.6% |
+
+
 
