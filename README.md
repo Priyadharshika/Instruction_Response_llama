@@ -61,10 +61,7 @@ Performance Metrics
 
 | Metric                | Score |
 |-----------------------|-------|
-| BertScore(Accuracy)   | x     |
 | BertScore(F1-Score)   | 83.6% |
-| BertScore(F1-precision)| 83.6% |
-| BertScore(F1-Recall)   | 83.6% |
 
 
 
