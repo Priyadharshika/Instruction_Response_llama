@@ -29,11 +29,11 @@ This project fine-tunes LLaMA generate response to the provided instruction.
 
 Used Instruction-Response dataset in multiple languages. 
 
-Instruction: 
+**Instruction**: 
 
-how long does an American football match REALLY last, if you substract all the downtime?
+How long does an American football match REALLY last, if you substract all the downtime?
 
-Response: 
+**Response**: 
 
 According to the Wall Street Journal, the ball is only in play for an average of 11 minutes during the typical NFL game, out of an average total game length of 3 hours and 12 minutes. 
 
